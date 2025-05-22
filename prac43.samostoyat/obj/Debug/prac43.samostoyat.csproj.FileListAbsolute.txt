@@ -1,0 +1,7 @@
+D:\215\prac43.samostoyat\bin\Debug\prac43.samostoyat.exe.config
+D:\215\prac43.samostoyat\bin\Debug\prac43.samostoyat.exe
+D:\215\prac43.samostoyat\bin\Debug\prac43.samostoyat.pdb
+D:\215\prac43.samostoyat\obj\Debug\prac43.samostoyat.csproj.AssemblyReference.cache
+D:\215\prac43.samostoyat\obj\Debug\prac43.samostoyat.csproj.CoreCompileInputs.cache
+D:\215\prac43.samostoyat\obj\Debug\prac43.samostoyat.exe
+D:\215\prac43.samostoyat\obj\Debug\prac43.samostoyat.pdb
