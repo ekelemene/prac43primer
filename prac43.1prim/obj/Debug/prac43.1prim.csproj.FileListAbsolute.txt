@@ -1,0 +1,7 @@
+C:\Users\Kab-35-16\source\repos\prac43.1prim\bin\Debug\prac43.1prim.exe.config
+C:\Users\Kab-35-16\source\repos\prac43.1prim\bin\Debug\prac43.1prim.exe
+C:\Users\Kab-35-16\source\repos\prac43.1prim\bin\Debug\prac43.1prim.pdb
+C:\Users\Kab-35-16\source\repos\prac43.1prim\obj\Debug\prac43.1prim.csproj.AssemblyReference.cache
+C:\Users\Kab-35-16\source\repos\prac43.1prim\obj\Debug\prac43.1prim.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\source\repos\prac43.1prim\obj\Debug\prac43.1prim.exe
+C:\Users\Kab-35-16\source\repos\prac43.1prim\obj\Debug\prac43.1prim.pdb
